@@ -1,3 +1,4 @@
+*/variaveis de cor*/
 :root {
     --bege: #E7E2DD;
     --laranja: #FF7F2D;
@@ -68,4 +69,5 @@ footer {
     background-color: var(--preto);
     color: white;
     font-size: 0.9rem;
+
 }
